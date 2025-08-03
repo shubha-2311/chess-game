@@ -23,3 +23,21 @@ This is a fully functional two-player chess game built using Python and Pygame. 
 - Python 3.x
 - [Pygame](https://www.pygame.org/) (Install with `pip install pygame`)
 - Assets folder with chess piece images (`assets/images/`) must be in the correct path:
+
+
+## 🚀 How to Run
+
+1. Make sure you have Python and Pygame installed.
+2. Clone the repository:
+ ```bash```
+ git clone https://github.com/your-username/pygame-chess.git
+ cd pygame-chess
+3. RUn the game: python complete_chess.py
+
+🏆 Developer Info
+Developed by Shubhadeep Sarkar,
+Student of B.Sc. Computer Science (3rd Year),
+Ramakrishna Mission Vidyamandira, Belur.
+
+📜 License
+This project is open-source and free to use for educational and personal purposes.
