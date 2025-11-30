@@ -264,7 +264,7 @@ const pieceList = ['pawn', 'queen', 'king', 'knight', 'rook', 'bishop'];
 
 // image path builder
 function getPieceImage(color, piece) {
-    return `images/${color}_${piece}.png`;
+    return `${color} ${piece}.png`;
 }
 
 // === Game state ===
@@ -943,4 +943,5 @@ setupBoardDOM();
 </script>
 </body>
 </html>
+
 
